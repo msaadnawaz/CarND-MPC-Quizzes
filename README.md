@@ -34,4 +34,4 @@ you'll have to install Ipopt and CppAD.
 * [CppAD](https://www.coin-or.org/CppAD/)
   * Mac: `brew install cppad`
   * Linux `sudo apt-get install cppad` or equivalent.
-  * Windows: TODO. If you can use the Linux subsystem and follow the Linux instructions.
+  * Windows: TODO. If you can use the Linux subsystem and follow the Linux instructions. Test.
